@@ -1,3 +1,6 @@
+rust_run:
+	rustc *.rs
+
 py_run:
 	python3 *.py
 
